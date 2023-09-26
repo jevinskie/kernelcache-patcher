@@ -1,0 +1,8 @@
+# vscode
+**/.vscode/
+
+# build folder
+build/
+
+# mac
+**/.DS_Store
